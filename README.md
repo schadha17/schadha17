@@ -6,7 +6,7 @@ I pursued my Bachelor's in Computer Science from Carleton University. Throughout
 - Developing C code for functional safety of QNX Kernel 
 - Implementing Template Matching Algorithm in Python for Computer Vision at Carleton University Research
 - Deploying AWS security groups for infrastructure behind AWS Secure Mastercard
-- Creating web (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits) for Computer Security Course at Carleton University 
+- Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits) for Computer Security Course at Carleton University 
 
 # 🎯 What I am focusing on 
 I want to work on exciting products and help deliver business value to the customer. I have experience with variety of technologies and tech stacks and I aim to use my knowledge to work on products that solve need of a customer. 
