@@ -9,7 +9,7 @@ I pursued my Bachelor's in Computer Science from Carleton University. Throughout
 - Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits) for Computer Security Course at Carleton University 
 
 # 🎯 What I am focusing on 
-I want to work closely with products that help deliver business value to the customer. I have experience with software from the OS level to the Application Layer. I aim to use my knowledge to work on products that solve the needs of a customer.
+I am looking for full-stack opportunities. I have experience with software from the OS level to the Application Layer. I aim to use my knowledge to develop back-end infrastructure and front-end application to deliver business values. 
 
 # 💻 How to reach me 
 I you have an exciting opportunity or if you want to collaborate with me on a project, please email me at siddharth17499@gmail.com
