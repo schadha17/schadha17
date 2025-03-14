@@ -1,12 +1,15 @@
 # 👋 Hi, I’m Siddharth
 
 I work as a Sr. Software Engineer for Capital One Canada.
-I pursued my Bachelor's in Computer Science from Carleton University. Throughout the school, I got opportunities to work on following internships & projects. 
+I pursued my Bachelor's in Computer Science from Carleton University. Throughout my career, I got opportunities to work on following projects as part of personal & professional development
 
 - Developing C code for functional safety of QNX Kernel 
 - Implementing Template Matching Algorithm in Python for Computer Vision at Carleton University Research
-- Deploying AWS security groups for infrastructure behind Secure Mastercard at Capital One Canada
-- Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits) for Computer Security Course at Carleton University 
+- Creating web exploits (brute forcers, OWASP vulnerabilities) and low level exploits (rootkits) for Computer Security Course
+- Developing scalable low latency & high availability system for displaying legal disclosures to customers
+- Designed and integrated automated acceptance tests into the CI/CD pipeline for microservices, accelerating test
+cycles and enhancing software quality
+- Developed Apache Airflow workflows to orchestrate event-driven system reducing AWS Fargate compute by 90%
 
 # 🎯 What I am focusing on 
 I am looking for full-stack opportunities. I have experience with software from the OS level to the Application Layer. I aim to use my knowledge to develop back-end infrastructure and front-end application to deliver value for the organization. 
